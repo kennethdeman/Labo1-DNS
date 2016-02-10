@@ -1,0 +1,15 @@
+$TTL 60
+@	IN SOA	corelli.sonatas.XVII.it. corelli (
+					0	; serial
+					1D	; refresh
+					1H	; retry
+					1W	; expire
+					3H )	; minimum
+		IN	NS	corelli.sonatas.XVII.it.
+carter.orchastral	IN	A	192.168.16.64
+gershwin.vocal	IN	A	192.168.16.132
+barber		IN	A	192.168.16.4
+bernstein	IN	A	192.168.16.17
+cage		IN	A	192.168.16.58
+gopland		IN	A	192.168.16.73
+glass		IN	A	192.168.16.99

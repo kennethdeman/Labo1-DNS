@@ -1,0 +1,10 @@
+$TTL 60
+@	IN SOA	corelli.sonatas.XVII.it. corelli (
+					0	; serial
+					1D	; refresh
+					1H	; retry
+					1W	; expire
+					3H )	; minimum
+		IN	NS	corelli.sonatas.XVII.it.
+opera		IN	NS	frescobaldi.XVII.it.
+ponchielli	IN	A	192.168.16.197
