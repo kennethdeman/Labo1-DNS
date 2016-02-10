@@ -6,9 +6,9 @@ $TTL 60
                                         60 ; expire
                                         60 ) ; min
 
-                		IN  NS  xenakis.XX.gr.
-piano					IN	NS	liszt.piano
-liszt.piano				IN	A 	192.168.16.140
-erkel					IN	A	192.168.16.88
-mosonyi					IN	A	192.168.16.181
+                	IN  	NS  	xenakis.XX.gr.
+piano			IN	NS	liszt.piano
+liszt.piano		IN	A 	192.168.16.140
+erkel			IN	A	192.168.16.88
+mosonyi			IN	A	192.168.16.181
 
