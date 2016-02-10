@@ -1,0 +1,13 @@
+$TTL 30
+@		IN SOA	@ XX.mail.be. (
+					2016021000	; serial
+					1D		; refresh
+					1H		; retry
+					1W		; expire
+					3H )		; minimum
+ 		IN NS wagner.opera.XIX.de.
+
+
+penderecki	IN A 192.168.16.191
+martinu		IN A 192.168.16.169
+
