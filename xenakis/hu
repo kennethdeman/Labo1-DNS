@@ -6,6 +6,14 @@ $TTL 60
                                         60 ; expire
                                         60 ) ; min
 
+;                       IN  	NS  	xenakis.XX.gr.          ; with extra zone file            
+;XIX 			IN	NS 	xenakis.XX.gr.		; below without extra zone file
+;XX 			IN 	NS 	kodaly.vocal.XX
+
+
                         IN  	NS  	xenakis.XX.gr.                        
-XIX 			IN	NS 	xenakis.XX.gr.
 XX 			IN 	NS 	kodaly.vocal.XX
+piano.XIX		IN	NS	liszt.piano.XIX
+liszt.piano.XIX		IN	A 	192.168.16.140
+erkel.XIX		IN	A	192.168.16.88
+mosonyi.XIX		IN	A	192.168.16.181
