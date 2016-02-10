@@ -1,0 +1,11 @@
+$TTL 30
+@		IN SOA	@ piano.mail.be. (
+					2016021000	; serial
+					1D		; refresh
+					1H		; retry
+					1W		; expire
+					3H )		; minimum
+ 		IN NS wagner.opera.XIX.de.
+
+schumann	IN A 192.168.16.219
+
