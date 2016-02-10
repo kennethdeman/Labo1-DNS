@@ -48,4 +48,5 @@ Please put your name/username/machinename after the name of the machine you chec
 
 Example:
 <Machine name> checked by <[name/username/machinename]>
+
 Vivaldi checked by Xenakis
