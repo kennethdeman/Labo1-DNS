@@ -9,7 +9,6 @@ TODO: Foto!
 - arne
 - bach
 - chopin
-- corelli
 - delalande
 - dvorak
 - elgar
@@ -41,6 +40,7 @@ TODO: Foto!
 ## Finished (not checked)
 
 - xenakis
+- corelli
 
 ## Finished (checked)
 
