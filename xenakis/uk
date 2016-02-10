@@ -1,0 +1,17 @@
+$TTL 60
+@                       IN      SOA     xenakis.xx.gr. xenakis (
+                                        1 ; serial
+                                        60 ; refresh
+                                        60 ; retry
+                                        60 ; expire
+                                        60 ) ; min
+
+                        IN      NS  xenakis.XX.gr.
+XX						IN		NS	elgar.XX
+XVI						IN 		NS	kodaly.vocal.XX
+XVII					IN		NS	purcell.vocal.XVII
+XVIII					IN		NS	arne.opera.XVIII
+kodaly.vocal.XX			IN		A	192.168.16.138
+arne.opera.XVVV			IN		A 	192.168.16.154
+elgar.XX				IN		A 	192.168.16.129
+
