@@ -14,6 +14,7 @@ $TTL 60
                         IN  	NS  	xenakis.XX.gr.                        
 XX 			IN 	NS 	kodaly.vocal.XX
 piano.XIX		IN	NS	liszt.piano.XIX
+kodaly.vocal.XX		IN	A	192.168.16.138
 liszt.piano.XIX		IN	A 	192.168.16.140
 erkel.XIX		IN	A	192.168.16.88
 mosonyi.XIX		IN	A	192.168.16.181
