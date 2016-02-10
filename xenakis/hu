@@ -6,6 +6,6 @@ $TTL 60
                                         60 ; expire
                                         60 ) ; min
 
-                        IN  NS  xenakis.XX.gr.                        
-XIX 					IN	NS 	xenakis.XX.gr.
-XX 						IN 	NS 	kodaly.vocal.XX
+                        IN  	NS  	xenakis.XX.gr.                        
+XIX 			IN	NS 	xenakis.XX.gr.
+XX 			IN 	NS 	kodaly.vocal.XX
