@@ -14,4 +14,5 @@ XVIII	          	IN   	NS	arne.opera.XVIII
 kodaly.vocal.XX	   	IN  	A	192.168.16.138
 arne.opera.XVVV	   	IN  	A 	192.168.16.154
 elgar.XX        	IN  	A 	192.168.16.129
-dunstable.sacral.XV	IN	A	192.168.16.85 ;of aparte zone XV.uk?
+purcell.vocal.XVII 	IN	A 	192.168.16.146
+dunstable.sacral.XV	IN	A	192.168.16.85 ; of aparte zone XV.uk?
