@@ -6,7 +6,7 @@ $TTL 60 ; voor kodaly
                                         60 ; expire
                                         60 ) ; min
 
-                		IN  NS  xenakis.XX.gr.                	
+                		IN  	NS	xenakis.XX.gr.                	
 dunstable.sacral		IN	A	192.168.16.85
 
 
