@@ -31,7 +31,6 @@ TODO: Foto!
 - telemann
 - uccellini
 - vivaldi
-- wagner
 - ysaye
 - zelenka
 
@@ -41,6 +40,7 @@ TODO: Foto!
 
 - xenakis
 - corelli
+- wagner
 
 ## Finished (checked)
 
