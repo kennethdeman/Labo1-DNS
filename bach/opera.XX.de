@@ -1,0 +1,12 @@
+$TTL 60
+@	IN SOA	 bach.sacral.XVIII.de. opera.mail.be. (
+					2016021002	; serial
+					60	; refresh
+					60	; retry
+					60	; expire
+					60 )	; minimum
+	IN NS bach.sacral.XVIII.de.
+
+weill	 	IN	A	192.168.16.250
+
+
