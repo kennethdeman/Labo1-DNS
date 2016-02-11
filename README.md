@@ -2,6 +2,9 @@
 
 TODO: Foto!
 
+How to contribute: fork & pull request pls!
+
+
 
 ## Unfinished
 
