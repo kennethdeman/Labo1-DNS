@@ -1,0 +1,13 @@
+;zonebestand voor piano.XIX.ie
+
+$TTL 60
+@	IN SOA	nielsen.XX.dk. 192.168.16.155 (
+					0	; serial
+					60	; refresh
+					60	; retry
+					60	; expire
+					60 )	; minimum
+			IN NS 	nielsen.XX.dk.
+
+field.piano.XIX		IN A	192.168.16.90
+
