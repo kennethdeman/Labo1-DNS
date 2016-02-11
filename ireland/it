@@ -1,5 +1,5 @@
 $TTL	60
-@	IN	SOA	    ireland.XX.uk. root (
+@				IN	SOA	ireland.XX.uk. root (
 	2
 	60
 	30
@@ -7,15 +7,15 @@ $TTL	60
 	120
 );
 
-							IN	NS	ireland.XX.uk.
-XVIII						IN	NS	scarlatti.keyboard.XVIII
-XIX							IN	NS	corelli.sonatas.XVII
-XX							IN	NS	gershwin.vocal.XX.us.
-XIV							IN	NS	ireland.XX.uk.
-vocal.XIV					IN	NS	ireland.XX.uk.
+				IN	NS	ireland.XX.uk.
+XVIII				IN	NS	scarlatti.keyboard.XVIII
+XIX				IN	NS	corelli.sonatas.XVII
+XX				IN	NS	gershwin.vocal.XX.us.
+XIV				IN	NS	ireland.XX.uk.
+vocal.XIV			IN	NS	ireland.XX.uk.
 
 scarlatti.keyboard.XVIII	IN	A	192.168.16.150
 corelli.sonatas.XVII		IN	A	192.168.16.126
 
 
-landini.vocal.XIV			IN	A	192.168.16.120
+landini.vocal.XIV		IN	A	192.168.16.120
