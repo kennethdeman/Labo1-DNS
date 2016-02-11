@@ -1,0 +1,16 @@
+;zonebestand voor sacral.XVI.uk
+$TTL 60
+@	IN SOA	nielsen.XX.dk. 192.168.16.155 (
+					0	; serial
+					1D	; refresh
+					1H	; retry
+					1W	; expire
+					3H )	; minimum
+		IN NS	nielsen.XX.dk.
+
+gibbons		IN A	192.168.16.97
+tallis		IN A	192.168.16.233
+taverner	IN A	192.168.16.236
+type		IN A	192.168.16.241
+weelkes		IN A	192.168.16.249
+	

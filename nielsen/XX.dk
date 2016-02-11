@@ -1,0 +1,12 @@
+;zonebestand voor XX.dk
+
+$TTL 60
+@	IN SOA  nielsen.XX.dk. 192.168.16.155 (
+					0	; serial
+					1D	; refresh
+					1H	; retry
+					1W	; expire
+					3H )	; minimum
+		IN NS	nielsen
+nielsen		IN A	192.168.16.143
+
