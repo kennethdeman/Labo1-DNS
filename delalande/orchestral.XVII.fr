@@ -1,0 +1,8 @@
+$TTL 60
+@		IN	SOA	delalande.orchestraI.XVII.fr.	delalande    (						1	;serial
+					60	;refresh
+					60	;retry
+					60	;expire
+					60 )	;minimum
+		IN	NS	delalande
+delalande	IN	A	192.168.16.128			
