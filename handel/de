@@ -1,0 +1,17 @@
+$TTL 60
+@		IN 	SOA	handel.XVIII.de. rname.invalid. (
+					0	; serial
+					60	; refresh
+					60	; retry
+					60	; expire
+					60)	; minimum
+		IN	NS	handel.XVIII
+XX		IN	NS	dvorak.XIX.cz.
+XVII		IN	NS	quantz.XVIII
+XVIII		IN	NS	telemann.XVIII
+XIX		IN	NS	beethoven.XIX
+beethoven.XIX	IN	A	192.168.16.148
+telemann.XVIII	IN	A	192.168.16.152
+quantz.XVIII	IN	A	192.168.16.147
+handel.XVIII	IN	A	192.168.16.134
+hassler.XVI	IN	A	192.168.16.108
