@@ -1,0 +1,16 @@
+$TTL 60
+@	IN SOA chopin.piano.XIX.pl. 192.168.16.155 (
+					0	; serial
+					60	; refresh
+					60	; retry
+					60	; expire
+					60 )	; minimim
+								IN	NS	chopin.piano.XIX.pl.
+XIX								IN	NS  chopin.piano.XIX.pl.
+piano.XIX						IN	NS  chopin.piano.XIX.pl.
+opera.XIX						IN	NS	albinoni.concerti.XVIII.it.
+XX								IN	NS	gershwin.vocal.XX.us.
+
+noskowski.XIX					IN	A	192.168.16.185
+wieniawski.XIX					IN	A	192.168.16.251
+chopin.piano.XIX				IN	A	192.168.16.142
