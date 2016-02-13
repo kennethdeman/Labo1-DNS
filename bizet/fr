@@ -1,0 +1,18 @@
+$TTL 60
+@ 			IN	SOA	bizet.opera.XIX.fr. jelle.dewitte.ugent.be. (
+					2001041600	; serial
+					10800		; refresh
+					3600		; retry
+					3600000		; expire
+					60 )		; minimum
+			  IN	NS	bizet.opera.XIX
+XIV			IN	NS	bizet.opera.XIX ; niet zeker of deze lijn nodig is
+XV			IN	NS	rameau.XVIII
+XVI			IN	NS	haydn.XVIII.at.
+XVII		IN	NS	mozart.XVIII.at.
+XVIII		IN 	NS	rameau.XVIII
+XIX			IN	NS	janacek.XIX.cz.
+XX			IN	NS	dvorak.XIX.cz.
+bizet.opera.XIX		IN	A	192.168.16.151
+rameau.XVIII		IN	A	192.168.16.149
+machaut.vocal.XIV	IN	A	192.168.16.163
