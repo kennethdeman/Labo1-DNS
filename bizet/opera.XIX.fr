@@ -1,0 +1,9 @@
+$TTL 60
+@ 			IN	SOA	bizet.opera.XIX.fr. jelle.dewitte.ugent.be (
+					2001041600	; serial
+					10800		; refresh
+					3600		; retry
+					3600000		; expire
+					60 )		; minimum
+			IN	NS	bizet
+bizet			IN	A	192.168.16.151
