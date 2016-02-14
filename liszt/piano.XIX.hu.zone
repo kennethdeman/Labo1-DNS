@@ -1,5 +1,5 @@
 $TTL 60
-@	IN	SOA	.	root (
+@	IN	SOA	piano.XIX.hu.	root (
 			2001041600	;serial
 			10800		;Refresh
 			3600		;Retry
@@ -8,3 +8,4 @@ $TTL 60
 
 	IN	NS	liszt
 
+liszt	IN 	A	192.168.16.140

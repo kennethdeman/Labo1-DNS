@@ -1,0 +1,14 @@
+$TTL 60
+@	IN	SOA	liszt.piano.XIX.hu.	root (
+			2001041600	;serial
+			60		;Refresh
+			60		;Retry
+			60		;Expire
+			60 )		;TTL
+
+		IN	NS	liszt.piano.XIX.hu.
+
+cherubini	IN	A	192.168.16.69
+cimarosa	IN	A	192.168.16.70
+galuppi		IN	A	192.168.16.94
+pergolesi	IN	A	192.168.16.192
